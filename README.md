@@ -1,1 +1,3 @@
-# jupyter-notebook-IBM-course-exercise
+# Jupyter Notebook IBM Course Exercise
+
+Hi :)
